@@ -1,0 +1,14 @@
+fieldset{
+	background-color: white;
+	width: 20%; 
+	margin: 0px auto;
+}
+.titulo{
+	text-align: center;
+}
+body{
+	background-color: pink;
+}
+.botao{
+	width: 49%;
+}
